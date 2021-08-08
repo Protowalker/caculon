@@ -1,7 +1,5 @@
 export interface IntVariable {
     name: string;
-    min: number;
-    max: number;
     value: number;
 }
 
